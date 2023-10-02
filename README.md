@@ -1,4 +1,4 @@
-# Academic-Success-In-Online-Courses
+# Academic Success In Online Courses
 A data analysis project to determine academic success factors in online courses.  
 For more information on the project, visit the /descr folder.  
   
